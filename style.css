@@ -1,17 +1,8 @@
 .bg-color {
   background-color: #fceae8;
 }
-.logo {
-  margin-right: 40px;
-}
-.carousel-item {
-  padding: 5%;
-}
 .price {
   color: #ff136f;
-}
-.text {
-  padding: 10%;
 }
 .buy-now-button {
   color: white;
@@ -22,7 +13,6 @@
   cursor: pointer;
 }
 .container {
-  margin-bottom: 100px;
   border-radius: 10px;
 }
 .cat1 {
@@ -54,9 +44,6 @@
 }
 #subscribe {
   height: 200px;
-}
-footer {
-  text-align: center;
 }
 .slider {
   width: 100%;
